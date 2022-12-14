@@ -1,9 +1,9 @@
 let count=0;
 
-var incriment=document.querySelector("#incri");
-var dicriment=document.querySelector("#dicri");
-var reset= document.querySelector("#reset");
-var result= document.querySelector("#result");
+// var incriment=document.querySelector("#incri");
+// var dicriment=document.querySelector("#dicri");
+// var reset= document.querySelector("#reset");
+// var result= document.querySelector("#result");
 
 
 
